@@ -1,0 +1,8 @@
+# === Visual Studio ===
+.vs/ 
+
+
+# === Build outputs ===
+# C# projects
+**/bin/
+**/obj/
